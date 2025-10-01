@@ -18,6 +18,7 @@ A collection of LeetCode questions I solved
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/beingAni/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/beingAni/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/beingAni/Leetcode/tree/master/0020-valid-parentheses) |
 ## Trie
@@ -40,5 +41,10 @@ A collection of LeetCode questions I solved
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/beingAni/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/beingAni/Leetcode/tree/master/0027-remove-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/beingAni/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
